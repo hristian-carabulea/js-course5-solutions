@@ -1,4 +1,4 @@
-# H1 Introduction to AngularJS
+## Introduction to AngularJS
 
 This is the repo for the coursera.org course, __Introduction to AngularJS__ taught by Yaakov Chaikin, https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home/welcome.
 
@@ -15,3 +15,6 @@ Here is a _list of the assignments_, so one can view them as a webpage.
 4. [__Assignment-4__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-4)
 
 5. [__Assignment-5__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-5)
+
+Here is the link for GitHub basic writting and formatting syntax.
+https://help.github.com/articles/basic-writing-and-formatting-syntax/.
