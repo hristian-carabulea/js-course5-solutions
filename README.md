@@ -4,7 +4,7 @@ This is the repo for the coursera.org course, __Introduction to AngularJS__ taug
 
 Here is a _list of the current subdirectories_, so one can view them as a webpage. Just add the subdirectory name to the URL __https://hristian-carabulea.github.io/fullstack-course5/__.
 
-1. [__Assignment-1__](https://hristian-carabulea.github.io/fullstack-course5/)
+1. [__Assignment-1__](https://hristian-carabulea.github.io/fullstack-course5/Assginment-1)
 
 __2. Assignment-2__
 
