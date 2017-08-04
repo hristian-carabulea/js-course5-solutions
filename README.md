@@ -6,10 +6,10 @@ Here is a _list of the current subdirectories_, so one can view them as a webpag
 
 1. [__Assignment-1__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-1)
 
-__2. Assignment-2__
+2. [__Assignment-2__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-2)
 
-__3. Assignment-3__
+3. [__Assignment-3__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-3)
 
-__4. Assignment-4__
+4. [__Assignment-4__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-4)
 
-__5. Assignment-5__
+5. [__Assignment-5__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-5)
