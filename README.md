@@ -8,13 +8,13 @@ Here is a _list of the assignments_, so one can view them as a webpage.
 
 1. [__Assignment-1__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-1)
 
-2. [__Assignment-2__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-2)
+2. [__Assignment-2__]
 
-3. [__Assignment-3__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-3)
+3. [__Assignment-3__]
 
-4. [__Assignment-4__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-4)
+4. [__Assignment-4__]
 
-5. [__Assignment-5__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-5)
+5. [__Assignment-5__]
 
 Here is the link for GitHub basic writting and formatting syntax.
 https://help.github.com/articles/basic-writing-and-formatting-syntax/.
