@@ -2,7 +2,7 @@
 
 Repo for the assignments to be done for coursera.org course, "__Introduction to AngularJS__" taught by Yaakov Chaikin, (https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home/welcome).
 
-The URL for this repo is __https://hristian-carabulea.github.io/angularjs-fullstack-course5/__.
+The URL for this repo is (__https://hristian-carabulea.github.io/angularjs-fullstack-course5/__).
 
 Here is a _list of the assignments_, so one can view them as a webpage. 
 
