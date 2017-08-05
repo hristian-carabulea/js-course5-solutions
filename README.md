@@ -6,7 +6,7 @@ The URL for this repo is __https://hristian-carabulea.github.io/fullstack-course
 
 Here is a _list of the assignments_, so one can view them as a webpage. 
 
-1. [__Assignment-1__](https://hristian-carabulea.github.io/fullstack-course5/Assignment-1)
+1. [__Assignment-1__](https://hristian-carabulea.github.io/angularjs-fullstack-course5/)
 
 2. [__Assignment-2__]
 
